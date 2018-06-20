@@ -18,7 +18,7 @@ This will bring you to the token's contract page on Etherscan. Here you can see 
     <img src="https://s3.eu-west-2.amazonaws.com/0x-wiki-images/contract_etherscan.png" style="padding-bottom: 30px; padding-top: 20px; width: 80%;" />
 </div>
 
-Keep in mind that only popular tokens are added to Etherscan's token tracker. If the token you are trading is not very popular, the only fool-proof way to validate the token's legitimacy is by checking that the **token address** matches that of the token you think you are trading.
+Keep in mind that only popular tokens are added to Etherscan's token tracker. If the token you are trading is not very popular, the only full-proof way to validate the token's legitimacy is by checking that the **token address** matches that of the token you think you are trading.
 
 For this, you will need to find the actual token address through a trusted source (the project's website, Twitter channel, etc...) and make sure that the two addresses match. **If they don't, then you are dealing with an identically named scam token.**
 
